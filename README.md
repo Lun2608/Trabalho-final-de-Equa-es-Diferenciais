@@ -100,7 +100,7 @@ cd <Trabalho final de Equações Diferenciais>
 pip install numpy scipy matplotlib
 
 # executar a simulação
-python simulacao.py
+python simulacao.ipynb
 ```
 
 ## Principais resultados
@@ -119,7 +119,7 @@ python simulacao.py
 .
 ├── README.md
 ├── EDO_apresentacao.pdf     # relatório do trabalho
-├── simulacao.py             # código da simulação (Figura 1)
+├── simulacao.ipynb             # código da simulação (Figura 1)
 └── figuras/
     └── figura1.png
 ```
