@@ -1,3 +1,5 @@
+![Imagem](figuras/capa_do_README.png)
+ 
  **Alunos:** 
  - Luis Navarro Erbetta 
  - Beatriz Pessoa de Souza
