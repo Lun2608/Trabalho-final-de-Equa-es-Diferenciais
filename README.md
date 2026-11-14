@@ -121,7 +121,8 @@ python simulacao.ipynb
 ├── EDO_apresentacao.pdf     # relatório do trabalho
 ├── simulacao.ipynb             # código da simulação (Figura 1)
 └── figuras/
-    └── figura1.png
+    └── grafico_resposta_sinaptica.png
+    └── capa_do_README.png
 ```
 
 ## Contribuição dos autores
