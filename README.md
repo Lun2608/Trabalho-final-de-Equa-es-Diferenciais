@@ -126,11 +126,11 @@ python simulacao.ipynb
 
 ## Contribuição dos autores
 
-Todos os autores participaram da concepção, da execução e da escrita do trabalho, com contribuição aproximadamente igual.
+Todos os autores participaram da concepção, da execução e da escrita deste trabalho. 
 
-- **Luis Navarro Erbetta:** fundamentação teórica matemática e discussão dos resultados finais.
-- **Beatriz Pessoa de Souza:** fundamentação teórica biológica e considerações finais.
-- **Raquel Bentes Lima:** resumo, introdução e organização do documento.
+• Luis Navarro Erbetta: fundamentação teórica matemática, aplicação computacional, discussão dos resultados finais e criação do GitHub.
+• Beatriz Pessoa de Souza: fundamentação teórica biológica e considerações finais.
+• Raquel Bentes Lima: resumo, introdução e organização do documento.
 
 ## Referências
 
